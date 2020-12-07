@@ -1,5 +1,16 @@
 # Company_Database
-This is the process that I went though to design and code a fully functional database in SQL for a generic marketing company. 
+This is the process that I went though to design and code a fully functional database in SQL for a generic marketing company.
+
+Put assumptions/concerns/clarifications per requirement bullet in the document (dbproject.docx)
+- EER diagram (Conceptual) (EER.png)
+- Logical Schema (Logical with M:N and Multivalued modified) (dbproject.docx)
+- Normalization (3NF) (dbproject.docx)
+- Dependency Diagram for Normalization (dbproject.docx)
+- Physical Schema (dbproject.docx)
+- Script to create Physical Schema in Oracle (Create.sql)
+- Insert data into those tables (Insert.sql)
+- Answer queries (Views.sql)
+- Project Questions (dbproject.docx)
 
 The views and queries ran are in the views.sql file and they are also in the dbproject.docx with the outputs.
 
